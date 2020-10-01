@@ -79,7 +79,16 @@
             "topics": [
                 "pinball"
             ]
+        } ,
+        {
+            "name": "Backgammon",
+            "description": "",
+            "url": "https://alexhedley.github.io/backgammon/",
+            "code": "https://github.com/AlexHedley/backgammon",
+            "img": "",
+            "topics": [
+                "dice", "counters"
+            ]
         }
-        
     ]
 }
