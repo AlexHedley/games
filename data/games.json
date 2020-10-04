@@ -79,7 +79,16 @@
             "topics": [
                 "pinball"
             ]
+        },
+        {
+            "name": "Dominoes",
+            "description": "",
+            "url": "https://alexhedley.github.io/dominoes/",
+            "code": "https://github.com/AlexHedley/dominoes",
+            "img": "",
+            "topics": [
+                "dominoes", "pips"
+            ]
         }
-        
     ]
 }
