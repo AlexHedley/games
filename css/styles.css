@@ -3,7 +3,8 @@ body {
 }
 
 h3 {
-    color: #D2691E
+    color: #D2691E;
+    cursor:pointer;
 }
 
 .container {
