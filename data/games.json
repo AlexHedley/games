@@ -99,6 +99,16 @@
             "topics": [
                 "dominoes", "pips"
             ]
+        },
+        {
+            "name": "Draughts",
+            "description": "",
+            "url": "https://alexhedley.github.io/draughts/",
+            "code": "https://github.com/AlexHedley/draughts",
+            "img": "https://raw.githubusercontent.com/AlexHedley/draughts/main/images/draughts.jpg",
+            "topics": [
+                "draughts"
+            ]
         }
     ]
 }
