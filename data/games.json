@@ -109,6 +109,16 @@
             "topics": [
                 "draughts"
             ]
+        },
+        {
+            "name": "Chopsticks",
+            "description": "Cubiko",
+            "url": "https://alexhedley.github.io/chopsticks/",
+            "code": "https://github.com/AlexHedley/chopsticks",
+            "img": "https://raw.githubusercontent.com/AlexHedley/chopsticks/main/images/chopsticks.jpeg",
+            "topics": [
+                "chopsticks", "sushi"
+            ]
         }
     ]
 }
