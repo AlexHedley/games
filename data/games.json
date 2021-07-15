@@ -129,6 +129,16 @@
             "topics": [
                 "foundation"
             ]
+        },
+        {
+            "name": "Shove Ha'Penny",
+            "description": "Oakes and Oakes",
+            "url": "https://alexhedley.github.io/shovehapenny/",
+            "code": "https://github.com/AlexHedley/shovehapenny",
+            "img": "https://raw.githubusercontent.com/AlexHedley/shovehapenny/main/images/shovehapenny.jpg",
+            "topics": [
+                "shove hapenny", "ha'penny", "penny"
+            ]
         }
     ]
 }
