@@ -55,7 +55,7 @@
             "description": "",
             "url": "https://alexhedley.github.io/mancala/",
             "code": "https://github.com/AlexHedley/mancala",
-            "img": "",
+            "img": "https://raw.githubusercontent.com/AlexHedley/mancala/master/images/mancala.png",
             "topics": [
                 "board", "marbles"
             ]
