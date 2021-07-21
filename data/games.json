@@ -15,7 +15,7 @@
             "description": "",
             "url": "https://alexhedley.github.io/cribbage/",
             "code": "https://github.com/AlexHedley/cribbage",
-            "img": "",
+            "img": "https://raw.githubusercontent.com/AlexHedley/cribbage/main/images/cribbage.jpg",
             "topics": [
                 "card", "board", "peg"
             ]
