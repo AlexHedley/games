@@ -85,7 +85,7 @@
             "description": "",
             "url": "https://alexhedley.github.io/backgammon/",
             "code": "https://github.com/AlexHedley/backgammon",
-            "img": "",
+            "img": "https://raw.githubusercontent.com/AlexHedley/backgammon/main/images/backgammon.jpg",
             "topics": [
                 "dice", "counters"
             ]
