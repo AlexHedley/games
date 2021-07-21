@@ -95,7 +95,7 @@
             "description": "",
             "url": "https://alexhedley.github.io/dominoes/",
             "code": "https://github.com/AlexHedley/dominoes",
-            "img": "",
+            "img": "https://raw.githubusercontent.com/AlexHedley/dominoes/main/images/dominoes.png",
             "topics": [
                 "dominoes", "pips"
             ]
