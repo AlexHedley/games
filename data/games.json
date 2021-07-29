@@ -139,6 +139,16 @@
             "topics": [
                 "shove hapenny", "ha'penny", "penny"
             ]
+        },
+        {
+            "name": "Carrooka",
+            "description": "",
+            "url": "https://alexhedley.github.io/carrooka/",
+            "code": "https://github.com/AlexHedley/carrooka",
+            "img": "https://raw.githubusercontent.com/AlexHedley/carrooka/main/images/carrooka.jpg",
+            "topics": [
+                "carrooka", "snooker"
+            ]
         }
     ]
 }
