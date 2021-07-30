@@ -149,6 +149,16 @@
             "topics": [
                 "carrooka", "snooker"
             ]
+        },
+        {
+            "name": "Shuffleboard",
+            "description": "+ Curling",
+            "url": "https://alexhedley.github.io/shuffleboard/",
+            "code": "https://github.com/AlexHedley/shuffleboard",
+            "img": "https://raw.githubusercontent.com/AlexHedley/shuffleboard/main/images/shuffleboard.jpg",
+            "topics": [
+                "shuffleboard", "curling"
+            ]
         }
     ]
 }
