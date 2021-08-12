@@ -60,7 +60,7 @@
 
             <div class="tile-container">
                 <div class="row">
-                    <div ng-repeat="game in games | filter:searchText" class="col-md-4" style="margin-bottom: 50px;">
+                    <div ng-repeat="game in games | filter:searchText | orderBy:'name'" class="col-md-4" style="margin-bottom: 50px;">
                         <div class="card mb-6 box-shadow">
                             <div class="card-img-container">
                                 <img class="card-img" ng-src="{{game.img}}" onerror="this.onerror=null;this.src='/images/placeholder.png';"/>
