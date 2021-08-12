@@ -39,7 +39,26 @@
 
         <div ng-controller="myController" data-ng-init="init()">
             
-            <div class="tile-container" style="margin-top: -50px;">
+            <div class="container" style="margin-top: -50px;">
+                <div class="row">
+                    <div class="col">
+                        <ul>
+                            <li><a href="https://boardgamearena.com/player?id=91017710" target="_blank">Board Game Arena Profile</a></li>
+                            <li><a href="https://boardgamegeek.com/user/AlexHedley" target="_blank">Board Game Geek Profile</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <script language="javascript" src="https://boardgamegeek.com/jswidget.php?username=AlexHedley&numitems=5&header=1&text=title&images=small&show=random&imagesonly=1&imagepos=right&domain=boardgame"></script>
+                    </div>
+                </div>
+            </div> -->
+
+            <div class="tile-container">
                 <div class="row">
                     <div ng-repeat="game in games | filter:searchText" class="col-md-4" style="margin-bottom: 50px;">
                         <div class="card mb-6 box-shadow">
