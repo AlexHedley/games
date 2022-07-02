@@ -189,6 +189,16 @@
             "topics": [
                 "bluffing"
             ]
+        },
+        {
+            "name": "Colt Express",
+            "description": "",
+            "url": "https://alexhedley.github.io/coltexpress/",
+            "code": "https://github.com/AlexHedley/coltexpress",
+            "img": "https://raw.githubusercontent.com/AlexHedley/coltexpress/main/images/colt.jpg",
+            "topics": [
+                "wild west"
+            ]
         }
     ]
 }
