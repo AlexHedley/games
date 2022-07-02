@@ -179,6 +179,16 @@
             "topics": [
                 "darts"
             ]
+        },
+        {
+            "name": "Coup",
+            "description": "",
+            "url": "https://alexhedley.github.io/coup/",
+            "code": "https://github.com/AlexHedley/coup",
+            "img": "https://raw.githubusercontent.com/AlexHedley/coup/main/images/coup.jpg",
+            "topics": [
+                "bluffing"
+            ]
         }
     ]
 }
