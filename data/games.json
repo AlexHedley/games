@@ -199,6 +199,16 @@
             "topics": [
                 "wild west"
             ]
+        },
+        {
+            "name": "Mexican Train",
+            "description": "",
+            "url": "https://alexhedley.github.io/mexican-train/",
+            "code": "https://github.com/AlexHedley/mexican-train",
+            "img": "https://raw.githubusercontent.com/AlexHedley/mexican-train/main/images/mexican-train.jpg",
+            "topics": [
+                "dominoes", "train"
+            ]
         }
     ]
 }
