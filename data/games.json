@@ -215,7 +215,7 @@
             "description": "The Quacks of Quedlinburg",
             "url": "https://alexhedley.github.io/quacks/",
             "code": "https://github.com/AlexHedley/quacks",
-            "img": "https://raw.githubusercontent.com/AlexHedley/quacks/main/images/Quacks.png"
+            "img": "https://raw.githubusercontent.com/AlexHedley/quacks/main/src/images/Quacks.png"
         }
     ]
 }
