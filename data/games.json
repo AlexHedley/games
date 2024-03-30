@@ -216,6 +216,20 @@
             "url": "https://alexhedley.github.io/quacks/",
             "code": "https://github.com/AlexHedley/quacks",
             "img": "https://raw.githubusercontent.com/AlexHedley/quacks/main/src/images/Quacks.png"
+        },
+        {
+            "name": "Wingspan",
+            "description": "",
+            "url": "https://alexhedley.github.io/wingspan/",
+            "code": "https://github.com/AlexHedley/wingspan",
+            "img": "https://raw.githubusercontent.com/AlexHedley/wingspan/main/src/images/Wingspan.png"
+        },
+        {
+            "name": "Wyrmspan",
+            "description": "",
+            "url": "https://alexhedley.github.io/wyrmspan/",
+            "code": "https://github.com/AlexHedley/wyrmspan",
+            "img": "https://raw.githubusercontent.com/AlexHedley/wyrmspan/main/src/images/Wyrmspan.png"
         }
     ]
 }
